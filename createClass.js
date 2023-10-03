@@ -28,3 +28,4 @@ const nameToCount = "William";
 const count = Mascota.contarMascotas(items, nameToCount);
 
 console.log(`Cantidad de mascotas con nombre igual"${nameToCount}": ${count}`);
+console.log(`Nombre de la mascota" "${nameToCount}"`);
